@@ -1,8 +1,7 @@
-import React from 'react';
 import { services } from './data/services';
 import { BentoGrid } from './components/BentoGrid';
-import { FaGithub, FaInstagram, FaBlog } from 'react-icons/fa';
-import { SiNaver, SiTistory } from 'react-icons/si';
+import { FaGithub, FaInstagram } from 'react-icons/fa';
+import { SiNaver } from 'react-icons/si';
 
 function App() {
   return (
